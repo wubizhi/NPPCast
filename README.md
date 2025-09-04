@@ -68,7 +68,6 @@ Move the files as follows:
 ```
 Common_data/CESM_Parameter.nc
 FOSI2/CESM2_FOSI_NPP_surface.nc
-NPP_Data/b.e11.BRCP85C5CNBDRD.f09_g16.001.pop.h.photoC_diaz.208101-210012.nc
 NPP_Data/g.e21.GIAF_JRA.TL319_g17.spinup-cycle5.pop.h.photoC_TOT.195801-201812.nc
 NPP_MAT/CbPM_month_intp.mat
 NPP_MAT/EVGPM_month_intp.mat
