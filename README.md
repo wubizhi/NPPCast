@@ -29,7 +29,7 @@ pip install scikit-image
 
 ### 2) Data setup
 
-Download the Google Drive bundle **`NPP_running_data`** and place the files into the following subfolders (create them if they don’t exist):
+Download the Google Drive bundle **`NPP_running_data`**(https://drive.google.com/file/d/1AZTueVOY3xTLyeMye0xjFK5BvodmtRJt/view?usp=drive_link) and place the files into the following subfolders (create them if they don’t exist):
 
 ```
 <repo-root>/
